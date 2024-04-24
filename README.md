@@ -28,7 +28,7 @@ Als extraatje heb ik ook het stuk geïmplementeerd om de API aan te roepen met J
 
 ## Oplevering
 
-Dit project is gepubliceerd op een publieke git repository in mijn GitHub account. Je kunt het vinden op [link naar je GitHub repository].
+Dit project is gepubliceerd op een publieke git repository in mijn GitHub account.
 
 ## Beoordeling
 
